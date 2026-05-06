@@ -43,7 +43,7 @@ Currently seeking a **stipend-based internship (June)** to contribute to live pr
 ### Task Manager Web Application
 > Full-stack web app built with Django — user authentication, task creation, deletion, and filtering
 
-[View Project](https://github.com/shagin-spec/task-manager) 
+[View Project](https://github.com/shagin-spec/django-task-manager)
 
 ---
 
