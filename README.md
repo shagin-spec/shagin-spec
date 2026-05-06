@@ -60,7 +60,7 @@ Currently seeking a **stipend-based internship (June)** to contribute to live pr
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shagin-banu-banu-1ba2a5398)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagin-banu-banu-1ba2a5398)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaginarif@gmail.com)
 
 ---
