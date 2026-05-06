@@ -65,4 +65,4 @@ Currently seeking a **stipend-based internship (June)** to contribute to live pr
 
 ---
 
-*Open to stipend-based internship opportunities — June 2025*
+*Open to stipend-based internship opportunities — June 2026*
